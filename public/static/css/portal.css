@@ -54,6 +54,22 @@ html > body {
     padding-top: 0; /* Remove space from top */
   }
 
+  /* Separate buttons in groups since we use the same color for all buttons. */
+  .btn-group>.btn:not(:last-child):not(.dropdown-toggle),.btn-group>.btn.dropdown-toggle-split:first-child,.btn-group>.btn-group:not(:last-child)>.btn {
+    border-top-right-radius: 10rem;
+    border-bottom-right-radius: 10rem;
+  }
+
+  .btn-group>.btn:nth-child(n+3),.btn-group>:not(.btn-check)+.btn,.btn-group>.btn-group:not(:first-child)>.btn {
+    border-top-left-radius: 10rem;
+    border-bottom-left-radius: 10rem;
+  }
+
+  .btn-group,.btn-group-lg>.btn,.btn-group-sm>.btn {
+    display: flex;
+    gap: 1rem;
+  }
+
   .ft_footer {
     padding-bottom: 0; /* Remove space from bottom */
     text-align: left;
