@@ -4,11 +4,11 @@ This project is a holding space for HTML and CSS that can be copy/pasted to the 
 
 ## Deployment Notes
 
-This project is deployed to the devops@mostlyserious.io Netlify account. The CSS files are referenced in the various head, banner, and footer files. To allow those changes to display on the CSuite site, simply push changes to the repo and they will be automatically published via acf-csuite.netlify.app.
+This project is deployed to the marketing@alaskacf.org Netlify account. The CSS files are referenced in the various head, banner, and footer files. To allow those changes to display on the CSuite site, simply push changes to the repo and they will be automatically published via acfcsuite.netlify.app.
 
 ## CSuite Assets
 
-The HTML files in the root of the public directory can be used to copy/paste into CSuite.
+The HTML files in the base of the public directory can be used to copy/paste into CSuite.
 
 ## Development Notes
 
