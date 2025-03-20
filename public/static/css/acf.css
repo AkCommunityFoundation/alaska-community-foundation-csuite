@@ -59,6 +59,22 @@ html > body {
     }
   }
 
+  &.donate .ft_content {
+    .ft_card.card {
+      container-type: inline-size;
+    }
+
+    @container (max-width: 500px) {
+      img {
+        width: 100% !important;
+        height: auto !important;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+        padding-bottom: 20px !important;
+      }
+    }
+  }
+
   .ft_banner,
   .ft_footer {
     /* Reset button styles from CSuite in banner and footer */
