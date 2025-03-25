@@ -20,19 +20,19 @@ The HTML files in the base of the `public/` directory can be used to copy/paste 
 
 There are three sets of colors that are used in the CSuite site:
 
-1. acf_colors
+1. **acf_colors**
     - Button Primary: `#51A07B`
     - Button Primary Hover: `#A778AA`
     - Button Secondary: `#723883`
     - Button Secondary Hover: `#707070`
     - White for all other values: `#FFFFFF`
-2. affiliate_colors
+2. **affiliate_colors**
     - Button Primary: `#723883`
     - Button Primary Hover: `#B494BA`
     - Button Secondary: `#585858`
     - Button Secondary Hover: `#A9A9A9`
     - White for all other values: `#FFFFFF`
-3. portal_colors
+3. **portal_colors**
     - Button Primary: `#51A07B`
     - Button Primary Hover: `#A778AA`
     - Button Secondary: `#51A07B`
@@ -52,11 +52,11 @@ The following includes pages that are used to test the CSuite site:
 - **Affiliate / Organization**
     - Chilkat Valley Community Foundation: [https://alaskacf.fcsuite.com/erp/donate?sorg_id=1000](https://alaskacf.fcsuite.com/erp/donate?sorg_id=1000)
 - **Fund Manager**
-    - How to log into the Fund Portal
+    - _How to log into the Fund Portal_
         
         The Mostly Serious devops@mostlyserious.io user must be granted access to one or more funds. This may need to happen every time the live site is synced back to sandbox.
         
-    - **Portal Login**: [https://alaskacf.fcsuite.com/erp/portal/](https://alaskacf.fcsuite.com/erp/portal/)
-    - **Portal Home**: [https://alaskacf.fcsuite.com/erp/portal/fundadvisor?profile_id=85730](https://alaskacf.fcsuite.com/erp/portal/fundadvisor?profile_id=85730)
-    - **Grant Request Process**: [https://alaskacf.fcsuite.com/erp/portal/fundadvisor/grant_request?funit_id=1067&profile_id=85730](https://alaskacf.fcsuite.com/erp/portal/fundadvisor/grant_request?funit_id=1067&profile_id=85730)
+    - _Portal Login_: [https://alaskacf.fcsuite.com/erp/portal/](https://alaskacf.fcsuite.com/erp/portal/)
+    - _Portal Home_: [https://alaskacf.fcsuite.com/erp/portal/fundadvisor?profile_id=85730](https://alaskacf.fcsuite.com/erp/portal/fundadvisor?profile_id=85730)
+    - _Grant Request Process_: [https://alaskacf.fcsuite.com/erp/portal/fundadvisor/grant_request?funit_id=1067&profile_id=85730](https://alaskacf.fcsuite.com/erp/portal/fundadvisor/grant_request?funit_id=1067&profile_id=85730)
 
